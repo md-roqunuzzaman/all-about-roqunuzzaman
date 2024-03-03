@@ -39,3 +39,17 @@ section {
     background-image: url(Corner_Banner_Yellow_PNG_Clipart.png);
     background-repeat: no-repeat;
 }
+
+.video {
+
+    padding: 100px;
+}
+
+.button2 {
+    background-color: orange;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 200px;
+}
