@@ -1,0 +1,41 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 40%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.top-banner {
+    background-image: url(Corner_Banner_Yellow_PNG_Clipart.png);
+    background-repeat: no-repeat;
+}
